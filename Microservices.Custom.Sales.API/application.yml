@@ -1,2 +1,3 @@
-ConnectionStrings: 
-    MicroservicesMonitoringConnection: Data Source=.;Initial Catalog=Microservices.Monitoring;User ID=sa;Password=Password1234
+ServicesUrl:
+    ProductApiUrl: http://Microservices.Demo.Product.API/api/products
+    PolicyApiUrl: http://Microservices.Demo.Policy.API/api/policies
